@@ -1,0 +1,24 @@
+﻿  menu.cpp
+C:\Users\rgo19\Documents\C++\Visual Studio\Acervo Bibliografico\Acervo Bibliografico\List.h(105,20): warning C4101: 'error': variable local sin referencia
+C:\Users\rgo19\Documents\C++\Visual Studio\Acervo Bibliografico\Acervo Bibliografico\List.h(92): message : al compilar la función del miembro clase plantilla "Nodo<T> *List<T>::getByIndex(const int &)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\rgo19\Documents\C++\Visual Studio\Acervo Bibliografico\Acervo Bibliografico\List.h(171): message : Vea la referencia a la creación de una instancia de la función plantilla "Nodo<T> *List<T>::getByIndex(const int &)" que se está compilando
+          with
+          [
+              T=std::string
+          ]
+C:\Users\rgo19\Documents\C++\Visual Studio\Acervo Bibliografico\Acervo Bibliografico\List.h(27): message : al compilar la función del miembro clase plantilla "Nodo<T> *List<T>::getHead(void)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\rgo19\Documents\C++\Visual Studio\Acervo Bibliografico\Acervo Bibliografico\menu.cpp(16): message : Vea la referencia a la creación de una instancia de la función plantilla "Nodo<T> *List<T>::getHead(void)" que se está compilando
+          with
+          [
+              T=std::string
+          ]
+C:\Users\rgo19\Documents\C++\Visual Studio\Acervo Bibliografico\Acervo Bibliografico\menu.cpp(7): message : Vea la referencia a la creación de una instancia de clase plantilla "List<std::string>" que se está compilando
+  Acervo Bibliografico.vcxproj -> C:\Users\rgo19\Documents\C++\Visual Studio\Acervo Bibliografico\x64\Debug\Acervo Bibliografico.exe
